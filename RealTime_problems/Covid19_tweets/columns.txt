@@ -1,0 +1,13 @@
+user_name -> Twitter User user_name
+user_location -> User's location
+user_description -> User's bio/description
+user_created -> When was the user created
+user_followers -> number of followers of this user
+user_friends -> number of friends of this user
+user_favourites -> number of favourites for this user
+user_verified -> is this user verified
+date -> tweet date
+text -> text of the tweet
+hashtags -> list of hashtags used
+source -> Source of the tweet
+is_retweet -> The tweet is a retweet
