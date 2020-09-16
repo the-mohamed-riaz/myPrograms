@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riaz Mohamed Riaz</h1>
-<h3 align="center">Computer Visi👁n Aspirant</h3>
+<h2 align="center">Computer Visi👁n Aspirant</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
+<img align='right' src="https://github.com/racyriaz/myPrograms/blob/master/RealTime_problems/Covid19_tweets/avatar%206.png" width="150" />
 - 🔭 I’m currently working on [Deep Learning with TensorFlow library](https://github.com/racyriaz/myPrograms/tree/master/supervise_learning_ANN_models)
 
 - 🌱 I’m currently learning **Deep_Learning, Computer_vision, Data Science **
