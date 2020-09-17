@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, If you dont find this resource convenient to view try this viewing it in [kaggle link]:https://www.kaggle.com/mohamedriaz/covid-19-tweets-eda-sentiments-clustering </h1>
-
+<h1 align="center"> Hi 👋, If you dont find this resource convenient to view try visiting https://www.kaggle.com/mohamedriaz/covid-19-tweets-eda-sentiments-clustering </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
 <img align='right' src="https://github.com/racyriaz/myPrograms/blob/master/RealTime_problems/Covid19_tweets/avatar%206.png" width="150" />
@@ -7,8 +6,8 @@
 - 🌱 I’m currently learning **Deep_Learning, Computer_vision, Data Science**
 - 👯 I’m looking to collaborate on [Aqua_Tracking](https://github.com/racyriaz/aqua-tracking)
 - 🤝 I’m looking for help with [GUI programming with PyQt5](https://github.com/racyriaz/myPrograms/commit/f852aad18de9009d1d85588eb74edf5f1cf2a985)
-- 👨‍💻 All of my projects are available at [https://github.com/racyriaz](https://github.com/racyriaz)
-- 📝 I regulary write articles on [https://www.linkedin.com/in/mohamed-riaz/](https://www.linkedin.com/in/mohamed-riaz/)
+- 👨‍💻 All of my projects are available at [my_Program repository](https://github.com/racyriaz/myPrograms)
+- 📝 I regulary write articles on [Linkedin](https://www.linkedin.com/in/mohamed-riaz/)
 - 💬 Ask me about **Python, Arduino, Computer_vision, Machine_Learning**
 - 📫 How to reach me **racyriaz@gmail.com**
 - ⚡ Fun fact: **U can't judge me, but your Algorithms can!**
