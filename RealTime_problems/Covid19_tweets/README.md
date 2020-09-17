@@ -1,25 +1,16 @@
-<h1 align="center">Hi 👋, I'm Riaz Mohamed Riaz</h1>
-<h2 align="center">Computer Visi👁n Aspirant</h2>
+<h1 align="center">Hi 👋, If you dont find this resource convenient to view try this viewing it in kaggle link(https://www.kaggle.com/mohamedriaz/covid-19-tweets-eda-sentiments-clustering)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
 <img align='right' src="https://github.com/racyriaz/myPrograms/blob/master/RealTime_problems/Covid19_tweets/avatar%206.png" width="150" />
 - 🔭 I’m currently working on [Deep Learning with TensorFlow library](https://github.com/racyriaz/myPrograms/tree/master/supervise_learning_ANN_models)
-
-- 🌱 I’m currently learning **Deep_Learning, Computer_vision, Data Science **
-
+- 🌱 I’m currently learning **Deep_Learning, Computer_vision, Data Science**
 - 👯 I’m looking to collaborate on [Aqua_Tracking](https://github.com/racyriaz/aqua-tracking)
-
 - 🤝 I’m looking for help with [GUI programming with PyQt5](https://github.com/racyriaz/myPrograms/commit/f852aad18de9009d1d85588eb74edf5f1cf2a985)
-
 - 👨‍💻 All of my projects are available at [https://github.com/racyriaz](https://github.com/racyriaz)
-
 - 📝 I regulary write articles on [https://www.linkedin.com/in/mohamed-riaz/](https://www.linkedin.com/in/mohamed-riaz/)
-
 - 💬 Ask me about **Python, Arduino, Computer_vision, Machine_Learning**
-
 - 📫 How to reach me **racyriaz@gmail.com**
-
 - ⚡ Fun fact: **U can't judge me, but your Algorithms can!**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racyriaz&layout=compact&hide=html" alt="racyriaz" /></p>
