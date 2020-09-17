@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, If you dont find this resource convenient to view try this viewing it in kaggle link(https://www.kaggle.com/mohamedriaz/covid-19-tweets-eda-sentiments-clustering)</h1>
+<h1 align="center">Hi 👋, If you dont find this resource convenient to view try this viewing it in [kaggle link]:https://www.kaggle.com/mohamedriaz/covid-19-tweets-eda-sentiments-clustering </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
