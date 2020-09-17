@@ -1,7 +1,14 @@
-<h1 align="center"> Hi 👋, If you dont find this resource convenient to view try visiting https://www.kaggle.com/mohamedriaz/covid-19-tweets-eda-sentiments-clustering </h1>
+<h1 align="center"> 
+
+ # Hi 👋, If you dont find this resource convenient to view try visiting the below kaggle link
+ [click here to view in kaggle link](https://www.kaggle.com/mohamedriaz/covid-19-tweets-eda-sentiments-clustering)
+
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=racyriaz" alt="racyriaz" /> </p>
 
+
 <img align='right' src="https://github.com/racyriaz/myPrograms/blob/master/RealTime_problems/Covid19_tweets/avatar%206.png" width="150" />
+
 - 🔭 I’m currently working on [Deep Learning with TensorFlow library](https://github.com/racyriaz/myPrograms/tree/master/supervise_learning_ANN_models)
 - 🌱 I’m currently learning **Deep_Learning, Computer_vision, Data Science**
 - 👯 I’m looking to collaborate on [Aqua_Tracking](https://github.com/racyriaz/aqua-tracking)
